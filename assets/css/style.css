@@ -18,13 +18,13 @@
 
 p1{
     font-size: 16px;
-    line-height: 1.6;s
+    line-height: 1.6;
 }
 
 .pre{
     margin-top: 90px; 
     text-align:left;
-    font-size:30px;
+    font-size:36px;
     
 }
 
@@ -32,11 +32,15 @@ header{
     line-height: 1;
 }
 
+span1{
+    font-size: 12px;
+}
+
 .pre1{
-    margin-top: 90px; 
+    margin-top: 50px; 
     text-align:left;
     font-size:30px;
-    line-height: 40%;
+    line-height: 30%;
     margin-bottom: 90px;
     
 }
