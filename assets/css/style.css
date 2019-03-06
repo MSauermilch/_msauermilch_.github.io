@@ -1,46 +1,77 @@
-/* .body {
-    /* background: lightgrey;
-    color: lightgrey; 
-} */
 
+/*Profile image*/
 #about-image{
-    height: 200px;
+    height: 250px;
     width: auto;
     margin-top: 6px;
     margin-right: 15px;
-
 }
 
-.p{
+/*index body*/
+p{
     padding-left: 10px;
     padding-right: 5px;
+    font-size: 18px;
+    font-weight:500;
 }
-
+/* 
 p1{
     font-size: 16px;
     line-height: 1.6;
-}
+} */
 
+/*contact body*/
 .pre{
     margin-top: 90px; 
     text-align:left;
-    font-size:36px;
-    
+    font-size:44px;
+    font-weight: 450;
 }
+/*Resume*/
+/*----------------------------------------------------*/
 
-header{
-    line-height: 1;
-}
-
+/* header on resume */
 span1{
-    font-size: 12px;
+    font-size: 42px;
+    font-weight: 600;
+    text-align:center;
+}
+/*address*/
+p2{
+    text-align: center;
+    font-size: 10px;
+    line-height: 1.2;
+
 }
 
-.pre1{
+/*para-graph heads*/
+p3{
+    font-size: 18px;
+}
+
+/*para-graph body*/
+p4{
+    font-size:  12px;
+    line-height: 0.5;
+    /* margin-left: 20px;
+    margin-right: 20px; */
+}
+
+/* .pre1{
     margin-top: 50px; 
     text-align:left;
     font-size:30px;
     line-height: 30%;
     margin-bottom: 90px;
     
+} */
+
+/*Portfolio*/
+/*----------------------------------------------------*/
+
+.portThumb{
+    border: solid red 3px;
+    padding: 10px;
+    height: 200px;
+    width: 200px;
 }
