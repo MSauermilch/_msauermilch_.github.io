@@ -1,5 +1,7 @@
 
 /*Profile image*/
+/*media query to center image when sm screen*/
+
 #about-image{
     height: 250px;
     width: auto;
@@ -21,12 +23,16 @@ p1{
 } */
 
 /*contact body*/
+/*-----------------------------------------------------*/
+/*add media query*/
+
 .pre{
     margin-top: 90px; 
     text-align:left;
     font-size:44px;
     font-weight: 450;
 }
+
 /*Resume*/
 /*----------------------------------------------------*/
 
@@ -34,7 +40,7 @@ p1{
 span1{
     font-size: 42px;
     font-weight: 600;
-    text-align:center;
+    
 }
 /*address*/
 p2{
