@@ -75,15 +75,29 @@ p4{
 /*Portfolio*/
 /*----------------------------------------------------*/
 
-.portThumb{
+/* .portThumb{
     border: solid grey 2px;
     border-radius: 4px;
     padding: 10px;
     height: 300px;
     width: 200px;
     float: left;
+} */
+
+.space{
+    padding: 15px;
 }
 
-.imageText{
-    text-align: center;
+.card-img-top{
+    height: 200px;
+}
+
+.card-title{
+    height: 24px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.card-text{
+    height: 72px;
 }
